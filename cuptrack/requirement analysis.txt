@@ -1,0 +1,5 @@
+1- Add Team to Cup
+2- Delete Team from Cup
+3- Add Match to schdule 
+4- Edit Match on schdule
+5- Delete Match from schdule
